@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'masyoga'
         required: true
-        default: 'uangdroid'
+        default: 'masyoga'
       agent_description:
         description: 'masyoga'
         required: true
